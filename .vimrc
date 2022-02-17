@@ -24,3 +24,4 @@ autocmd Colorscheme * highlight FullWidthSpace ctermbg=white
 autocmd VimEnter * match FullWidthSpace /　/
 " カラースキームの設定
 colorscheme desert 
+set clipboard=unnamed,autoselect
